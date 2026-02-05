@@ -45,77 +45,80 @@ python3 calculate.py --filter 2022
 ### 2016
 
 Pre-VFP eras:
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| B_ver2    |    5.82942773   |
-| C         |    2.60167810   |
-| D         |    4.28603180   |
-| E         |    4.06597475   |
-| FHIPM     |    2.71848926   |
-| **Total** | **19.50160251**  |
+| Era       | Lumi (fb$^{-1}$) | From POG  |
+| :-------- | ----------------:|:---------:|
+| B_ver2    |    5.82942773    | ---   |
+| C         |    2.60167810    | ---   |
+| D         |    4.28603180    | ---   |
+| E         |    4.06597475    | ---   |
+| FHIPM     |    2.71848926    | ---   |
+| **Total** | **19.50160251**  | ---   |
+
+Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 Post-VFP eras:
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| F         |     0.41877119   |
-| G         |     7.65326123   |
-| H         |     8.74011930   |
-| **Total** | **16.81215172**  |
+| Era       | Lumi (fb$^{-1}$) | From POG  |
+| :-------- | ----------------:|:---------:|
+| F         |     0.41877119   | ---   |
+| G         |     7.65326123   | ---   |
+| H         |     8.74011930   | ---   |
+| **Total** | **16.81215172**  | ---   |
 
-Total (preVFP + postVFP) = 36.313753344 fb$^{-1}$
-POG recommended value: 36.31 fb$^{-1}$
+Total (preVFP + postVFP) = 36.313753344 fb$^{-1}$ <br>
+POG recommended value: 36.31 fb$^{-1}$<br>
+Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 ### 2017
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| B         |  4.88086683      |
-| C         |  9.72563826      |
-| D         |  4.31371476      |
-| E         |  9.42009453      |
-| F         | 13.72791429      |
-| **Total** | **42.06822866**  |
-POG recommended value: 42.07
+| Era       | Lumi (fb$^{-1}$) | From POG  |
+| :-------- | ----------------:|:---------:|
+| B         |  4.88086683      | ---   |
+| C         |  9.72563826      | ---   |
+| D         |  4.31371476      | ---   |
+| E         |  9.42009453      | ---   |
+| F         | 13.72791429      | ---   |
+| **Total** | **42.06822866**  | 42.07 |
+
+Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 ### 2018
 
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| A         | 13.961196585     |
-| B         |  7.028282919     |
-| C         |  6.872940971     |
-| D         | 31.698842046     |
-| **Total** | **59.56126252**  |
+| Era       | Lumi (fb$^{-1}$) | From POG  |
+| :-------- | ----------------:|:---------:|
+| A         | 13.961196585     | ---       |
+| B         |  7.028282919     | ---       |
+| C         |  6.872940971     | ---       |
+| D         | 31.698842046     | ---       |
+| **Total** | **59.56126252**  | 59.56     |
 
-POG recommended value: 59.56 fb$^{-1}$
+Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 ### 2022
 
 Pre-EE eras:
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| C         | 5.010409015      |
-| D         | 2.970045130      |
-| **Total** | **7.980454145**  |
+| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| :-------- | ----------------:| ---------:|
+| C         | 5.010409015      | 5.0104    |
+| D         | 2.970045130      | 2.9700    |
+| **Total** | **7.980454145**  | ---       |
 
 Post-EE eras:
-| Era       | Lumi (fb$^{-1}$) |
-| :-------- | ----------------:|
-| E         |  5.80695521      |
-| F         | 17.78190146      |
-| G         |  3.08275303      |
-| **Total** | **26.67160970**  |
+| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| :-------- | ----------------:| ---------:|
+| E         |  5.80695521      | 	5.8070   |
+| F         | 17.78190146      | 17.7819   |
+| G         |  3.08275303      |	3.0828   |
+| **Total** | **26.67160970**  | ---       |
 
-Total (preEE + postEE) = 34.65206385 fb$^{-1}$
-Total from TWiki: 30.1028  fb$^{-1}$ (including non-recommended eras.)
+Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN4
 
 ### 2023
-| Era      | Lumi (fb$^{-1}$) |
-| :------------ | -----------:|
-| C (preBPix)   | 18.06265911 |
-| D (postBPix)  |  9.69313005 |
 
-Total (preBPix + postBPix) = 27.755789163 fb$^{-1}$
-Total from TWiki: 38.011 fb$^{-1}$ (including non-recommended eras.)
+| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| :-------- | ----------------:| ---------:|
+| C (preBPix)   | 18.06265911  | 18.063    |
+| D (postBPix)  |  9.69313005  | 	9.693    |
+
+Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN2
 
 ## Conclusion
 
