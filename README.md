@@ -45,7 +45,7 @@ python3 calculate.py --filter 2022
 ### 2016
 
 Pre-VFP eras:
-| Era       | Lumi (fb$^{-1}$) | From POG  |
+| Era       | Lumi (fb⁻¹) | From POG  |
 | :-------- | ----------------:|:---------:|
 | B_ver2    |    5.82942773    | ---   |
 | C         |    2.60167810    | ---   |
@@ -57,19 +57,19 @@ Pre-VFP eras:
 Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 Post-VFP eras:
-| Era       | Lumi (fb$^{-1}$) | From POG  |
+| Era       | Lumi (fb⁻¹) | From POG  |
 | :-------- | ----------------:|:---------:|
 | F         |     0.41877119   | ---   |
 | G         |     7.65326123   | ---   |
 | H         |     8.74011930   | ---   |
 | **Total** | **16.81215172**  | ---   |
 
-Total (preVFP + postVFP) = 36.313753344 fb$^{-1}$ <br>
-POG recommended value: 36.31 fb$^{-1}$<br>
+Total (preVFP + postVFP) = 36.313753344 fb⁻¹ <br>
+POG recommended value: 36.31 fb⁻¹<br>
 Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#Luminosity_for_pp_13_TeV_data_20
 
 ### 2017
-| Era       | Lumi (fb$^{-1}$) | From POG  |
+| Era       | Lumi (fb⁻¹) | From POG  |
 | :-------- | ----------------:|:---------:|
 | B         |  4.88086683      | ---   |
 | C         |  9.72563826      | ---   |
@@ -82,7 +82,7 @@ Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#L
 
 ### 2018
 
-| Era       | Lumi (fb$^{-1}$) | From POG  |
+| Era       | Lumi (fb⁻¹) | From POG  |
 | :-------- | ----------------:|:---------:|
 | A         | 13.961196585     | ---       |
 | B         |  7.028282919     | ---       |
@@ -95,14 +95,14 @@ Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#L
 ### 2022
 
 Pre-EE eras:
-| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| Era       | Lumi (fb⁻¹) | From PdmV |
 | :-------- | ----------------:| ---------:|
 | C         | 5.010409015      | 5.0104    |
 | D         | 2.970045130      | 2.9700    |
 | **Total** | **7.980454145**  | ---       |
 
 Post-EE eras:
-| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| Era       | Lumi (fb⁻¹) | From PdmV |
 | :-------- | ----------------:| ---------:|
 | E         |  5.80695521      | 	5.8070   |
 | F         | 17.78190146      | 17.7819   |
@@ -113,7 +113,7 @@ Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN
 
 ### 2023
 
-| Era       | Lumi (fb$^{-1}$) | From PdmV |
+| Era       | Lumi (fb⁻¹) | From PdmV |
 | :-------- | ----------------:| ---------:|
 | C (preBPix)   | 18.06265911  | 18.063    |
 | D (postBPix)  |  9.69313005  | 	9.693    |
@@ -122,9 +122,9 @@ Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN
 
 ## Conclusion
 
-Use the following luminosities while working with the Run 2 and Run 3 datasets. The numbers are expressed in pb$^{-1}$.
+Use the following luminosities while working with the Run 2 and Run 3 datasets. The numbers are expressed in pb⁻¹.
 
-| campaign         | Lumi (pb$^-1$) |
+| campaign         | Lumi (pb⁻¹) |
 | :--------------- | --------------:|
 | 2016preVFP_UL    | 19501.60251    |
 | 2016postVFP_UL   | 16812.15172    |
