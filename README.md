@@ -95,28 +95,28 @@ Source (POG): https://twiki.cern.ch/twiki/bin/view/CMS/LumiRecommendationsRun2#L
 ### 2022
 
 Pre-EE eras:
-| Era       | Lumi (fb⁻¹) | From PdmV |
-| :-------- | ----------------:| ---------:|
-| C         | 5.010409015      | 5.0104    |
-| D         | 2.970045130      | 2.9700    |
-| **Total** | **7.980454145**  | ---       |
+| Era       | Lumi (fb⁻¹)      | PdmV    | Error %
+| :-------- | ----------------:| -------:| -----:|
+| C         | 5.010409015      | 5.02    |
+| D         | 2.970045130      | 2.97    |
+| **Total** | **7.980454145**  | 7.99    | 0.12%
 
 Post-EE eras:
-| Era       | Lumi (fb⁻¹) | From PdmV |
-| :-------- | ----------------:| ---------:|
-| E         |  5.80695521      | 	5.8070   |
-| F         | 17.78190146      | 17.7819   |
-| G         |  3.08275303      |	3.0828   |
-| **Total** | **26.67160970**  | ---       |
+| Era       | Lumi (fb⁻¹)      | PdmV      | Error %
+| :-------- | ----------------:| ---------:| -----:|
+| E         |  5.80695521      | 	5.81    |
+| F         | 17.78190146      | 17.78    |
+| G         |  3.08275303      |	3.09    |
+| **Total** | **26.67160970**  | 26.68    | 0.03%
 
 Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN4
 
 ### 2023
 
-| Era       | Lumi (fb⁻¹) | From PdmV |
-| :-------- | ----------------:| ---------:|
-| C (preBPix)   | 18.06265911  | 18.063    |
-| D (postBPix)  |  9.69313005  | 	9.693    |
+| Era       | Lumi (fb⁻¹)      | From PdmV |Error %
+| :-------- | ----------------:| ---------:| -----:|
+| C (preBPix)   | 18.06265911  | 17.96     | 0.57%
+| D (postBPix)  |  9.69313005  | 	9.68     | 0.13%
 
 Source (PdMV): https://twiki.cern.ch/twiki/bin/view/CMS/PdmVRun3Analysis#DATA_AN2
 
